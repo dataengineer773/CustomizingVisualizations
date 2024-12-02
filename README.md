@@ -1,0 +1,1 @@
+In customizing Visualization we use Facebook's stock price throughout 2018 (obtained using the stock_analysis package) and Earthquake data from September 18, 2018 - October 13, 2018 (obtained from the US Geological Survey (USGS) using the USGS API)
